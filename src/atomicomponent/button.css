@@ -1,0 +1,9 @@
+.search-btn {
+  background-color: rgb(187, 189, 39);
+  color: aliceblue;
+  margin: 8px;
+  padding: 8px 12px;
+  border-radius: 2px;
+  inline-size: fit-content;
+  border: aliceblue;
+}

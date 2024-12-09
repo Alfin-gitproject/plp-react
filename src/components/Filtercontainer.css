@@ -1,0 +1,14 @@
+.plpFilter__Container{
+    width:25%;
+    margin: 10px;
+    padding: 20px;
+  
+    border-radius: 4px;
+    height: 100%;
+    line-height: 30px;
+    text-transform:capitalize;
+    font-weight: bold;
+    font-family: ui-rounded;
+    font-size: 16px;
+    border: 2px solid #dadadabc;
+}
