@@ -1,0 +1,17 @@
+.container-1
+{
+    color:rgb(17, 23, 21);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 60px;
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 20px;
+   height: 61px;
+   width:100%;
+   background-color: lightblue;
+}
+.footer-1{
+    margin-right: 55px;
+}

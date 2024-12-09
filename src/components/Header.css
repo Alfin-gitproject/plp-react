@@ -1,0 +1,19 @@
+.menu
+{
+    color:aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 60px;
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 20px;
+   height: 61px;
+   width:100%;
+   background-color: black;
+}
+.menu-1{
+    margin-right: 35px;
+    text-transform: capitalize;
+}
+

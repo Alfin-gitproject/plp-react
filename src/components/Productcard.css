@@ -1,0 +1,33 @@
+.products {
+  flex: 0 0 calc(30.33%);
+  margin-right: 20px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  font-family: ui-rounded;
+  box-shadow: 5px 5px 5px rgb(93, 102, 102);
+  padding: 5px;
+}
+
+.products:hover {
+  background-color: rgb(222, 238, 251);
+}
+
+.description-1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-family: sans-serif;
+  font-style: oblique;
+  font-weight: bolder;
+  font-size: 18px;
+  margin: 15px;
+}
+.buyButton {
+  background-color: rgb(187, 189, 39);
+  color: aliceblue;
+  margin: 0px 152px;
+  padding: 6px 16px;
+  border-radius: 2px;
+  border: aliceblue;
+}
